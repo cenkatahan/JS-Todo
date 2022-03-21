@@ -1,0 +1,18 @@
+body{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    transform: translate(30%, 0%);
+}
+
+.title{
+    position: relative;
+    left: 15%;
+}
+
+.form{
+    position: relative;
+    background-color: bisque;
+    width: 30%;
+    left: 15%;
+}
